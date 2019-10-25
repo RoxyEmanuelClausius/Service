@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">service</string>
+    <string name="bimantara_sakti">Bimantara Sakti</string>
+    <string name="stop">Stop</string>
+    <string name="mp3_player">MP3 Player</string>
+    <string name="universitas_teknologi_yogyakarta">Universitas Teknologi Yogyakarta</string>
+    <string name="play">Play</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="todo">TODO</string>
+</resources>
